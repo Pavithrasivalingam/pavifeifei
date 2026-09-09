@@ -41,24 +41,4 @@ Exploring innovative AI solutions for real-world problems.
 
 ---
 
-## 📊 GitHub Stats
-
-![Pavithra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
----
-
 ### ⭐ "Keep learning, keep building, and let your work speak for itself."

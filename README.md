@@ -1,4 +1,4 @@
-# Hey 👋, I'm Pavithra ✨
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7f201750-b771-43fe-88cb-d35425cd372c" /># Hey 👋, I'm Pavithra ✨
 
 ### 💻 CSE Student | Software Testing Intern | AI • Full Stack • Computer Vision 🚀
 
@@ -135,7 +135,7 @@ A personality-aware decision-making web application designed to provide personal
 ## 🌐 My Socials
 
 <p align="left">
-  <a href="https://github.com/pavifeifei">
+  <a href="https://github.com/Pavithrasivalingam">
     <img src="https://img.shields.io/badge/GitHub-@pavifeifei-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pavithrasivalingam-988059327/">

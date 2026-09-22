@@ -1,4 +1,3 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7f201750-b771-43fe-88cb-d35425cd372c" />
 Hey 👋, I'm Pavithra ✨
 
 ### 💻 CSE Student | Software Testing Intern | AI • Full Stack • Computer Vision 🚀

@@ -136,7 +136,7 @@ A personality-aware decision-making web application designed to provide personal
 
 <p align="left">
   <a href="https://github.com/Pavithrasivalingam">
-    <img src="https://img.shields.io/badge/GitHub-@pavifeifei-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@Pavithrasivalingam-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pavithrasivalingam-988059327/">
     <img src="https://img.shields.io/badge/LinkedIn-Pavithra%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
